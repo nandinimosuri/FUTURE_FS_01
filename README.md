@@ -29,5 +29,5 @@ This is my personal portfolio website developed using HTML, CSS, JavaScript, Nod
 
 **Nandini Mosuri**
 
-* LinkedIn: https://linkedin.com/in/nandini-mosuri
+* LinkedIn: https://www.linkedin.com/in/nandini-mosuri-70158832b/
 * GitHub: https://github.com/nandinimosuri
